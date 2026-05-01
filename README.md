@@ -1,4 +1,4 @@
-# MedRAG-AI : A Retrieval-Augmented Medical Chatbot using LLMs, LangChain, Pinecone &amp; AWS
+# MedRAG-AI : A Retrieval-Augmented Medical Chatbot using LLMs, LangChain, Pinecone - Vector database &amp; AWS
 
 MedRAG-AI is a project I am currently building to explore how Retrieval-Augmented Generation (RAG) can be applied in the medical domain. The goal is to create a system that can answer medical queries using context from documents instead of relying only on a language model.
 
